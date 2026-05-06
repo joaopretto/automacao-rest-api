@@ -1,4 +1,4 @@
-# 🚀 Desafio-QA - Automação de Testes de API - RestAssured & Cucumber
+# 🚀 Automação de Testes de API - RestAssured & Cucumber
 
 Este projeto consiste em uma suíte de testes automatizados para validação de **API REST**, utilizando **Java**, **RestAssured** e **Cucumber**. O projeto foi arquitetado focando em escalabilidade, reutilização de código e gestão inteligente de massa de dados.
 
